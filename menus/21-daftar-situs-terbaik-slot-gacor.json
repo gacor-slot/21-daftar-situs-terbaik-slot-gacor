@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 21-daftar-situs-terbaik-slot-gacor",
+        "command": "21-daftar-situs-terbaik-slot-gacor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "21-daftar-situs-terbaik-slot-gacor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "21-daftar-situs-terbaik-slot-gacor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

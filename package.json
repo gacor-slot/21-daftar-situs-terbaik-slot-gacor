@@ -1,0 +1,22 @@
+{
+  "name": "21-daftar-situs-terbaik-slot-gacor",
+  "main": "./lib/21-daftar-situs-terbaik-slot-gacor",
+  "version": "0.0.0",
+  "description": "Kumpulan 21 daftar situs terbaik slot gacor terpercaya dari amintoto paling baru di Indonesia. Dapatkan sekarang juga hanya dengan daftar slot gacor gampang menang hari ini.",
+  "keywords": [
+    "slot gacor terbaik",
+    "slot gacor",
+    "situs slot gacor",
+    "daftar slot gacor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "21-daftar-situs-terbaik-slot-gacor:toggle"
+  },
+  "repository": "https://github.com/gacor-slot/21-daftar-situs-terbaik-slot-gacor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
